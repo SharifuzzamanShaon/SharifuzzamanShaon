@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharifuzzaman Hasan</h1>
-<h3 align="center">JavaScript developer specializing in the Node Js | React Js | Next Js</h3>
+<h3 align="center">JS developer specializing in the Node Js | React Js | Next Js | API </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifuzzamanshaon&label=Profile%20views&color=0e75b6&style=flat" alt="sharifuzzamanshaon" /> </p>
 
