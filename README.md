@@ -9,12 +9,11 @@ Hello! I'm **Sharifuzzaman Hasan**, a passionate and dedicated full-stack develo
 
 ### Skills & Technologies:
 - **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express.js, REST APIs, GraphQL
+- **Backend**: Node.js, Express.js, REST APIs, Redis
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **Authentication**: JWT, Firebase
-- **State Management**: Redux, RTK Query
+- **State Management**: Redux, RTK Query, Redux persist
 - **Real-time**: Socket.IO, WebSockets
-- **DevOps**: Docker, Heroku, Render, AWS, DigitalOcean
 - **Version Control**: Git, GitHub, GitLab
 
 I’ve been working with the **MERN stack** for the past two years, building projects like e-commerce apps, learning management systems, chat applications, and custom enterprise solutions. I’m always exploring new frameworks, best practices, and solutions that help improve the scalability, performance, and user experience of my applications.
