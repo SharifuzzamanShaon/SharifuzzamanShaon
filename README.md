@@ -3,6 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifuzzamanshaon&label=Profile%20views&color=0e75b6&style=flat" alt="sharifuzzamanshaon" /> </p>
 
+## About Me
+
+Hello! I'm **Sharifuzzaman Hasan**, a passionate and dedicated full-stack developer with a strong background in web development. I specialize in building dynamic, responsive, and scalable applications using the latest technologies in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). My expertise extends to various front-end and back-end frameworks, making me a versatile developer who can handle both client and server-side logic seamlessly.
+
+### Skills & Technologies:
+- **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript
+- **Backend**: Node.js, Express.js, REST APIs, GraphQL
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **Authentication**: JWT, Firebase
+- **State Management**: Redux, RTK Query
+- **Real-time**: Socket.IO, WebSockets
+- **DevOps**: Docker, Heroku, Render, AWS, DigitalOcean
+- **Version Control**: Git, GitHub, GitLab
+
+I’ve been working with the **MERN stack** for the past two years, building projects like e-commerce apps, learning management systems, chat applications, and custom enterprise solutions. I’m always exploring new frameworks, best practices, and solutions that help improve the scalability, performance, and user experience of my applications.
+
+I aim to leverage my skills to contribute to meaningful projects, continuously learn, and push the boundaries of what can be done in web development.
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharifuzzaman-hasan-0b561521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharifuzzaman-hasan-0b561521a/" height="30" width="40" /></a>
