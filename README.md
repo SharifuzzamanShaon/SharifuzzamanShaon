@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm **Sharifuzzaman Hasan**, a passionate and dedicated full-stack developer with a strong background in web development. I specialize in building dynamic, responsive, and scalable applications using the latest technologies in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). My expertise extends to various front-end and back-end frameworks, making me a versatile developer who can handle both client and server-side logic seamlessly.
+Hello! I'm **Sharifuzzaman Hasan**, a passionate and dedicated full-stack developer with a strong background in web development. I specialize in building dynamic, responsive, and scalable applications using the latest technologies in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). 
 
 ### Skills & Technologies:
 - **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript
@@ -15,11 +15,9 @@ Hello! I'm **Sharifuzzaman Hasan**, a passionate and dedicated full-stack develo
 - **State Management**: Redux, RTK Query, Redux persist
 - **Real-time**: Socket.IO, WebSockets
 - **Version Control**: Git, GitHub, GitLab
+- Familiar AWS services (EC2, S3, API Gateway).
 
 I’ve been working with the **MERN stack** for the past two years, building projects like e-commerce apps, learning management systems, chat applications, and custom enterprise solutions. I’m always exploring new frameworks, best practices, and solutions that help improve the scalability, performance, and user experience of my applications.
-
-I aim to leverage my skills to contribute to meaningful projects, continuously learn, and push the boundaries of what can be done in web development.
-
 
 
 <h3 align="left">Connect with me:</h3>
