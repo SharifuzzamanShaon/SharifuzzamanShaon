@@ -17,8 +17,6 @@ Hello! I'm **Sharifuzzaman Hasan**, a passionate and dedicated full-stack develo
 - **Version Control**: Git, GitHub, GitLab
 - Familiar AWS services (EC2, S3, API Gateway).
 
-I’ve been working with the **MERN stack** for the past two years, building projects like e-commerce apps, learning management systems, chat applications, and custom enterprise solutions. I’m always exploring new frameworks, best practices, and solutions that help improve the scalability, performance, and user experience of my applications.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
