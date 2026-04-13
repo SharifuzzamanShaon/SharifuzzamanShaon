@@ -30,7 +30,6 @@ const shaon = {
   location: "Bangladesh 🇧🇩",
   stack   : ["MongoDB", "Express", "React", "Node.js"],
   focus   : "Scalable APIs & Pixel-perfect UIs",
-  status  : "🟢 Open to Opportunities",
   coffee  : "99 cups/month ☕",
 };
 ```
