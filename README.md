@@ -1,12 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        SHARIFUZZAMAN HASAN  ·  FULL-STACK DEVELOPER          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8F53B&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shaon+%F0%9F%91%8B;Full-Stack+JS+Developer;MERN+Stack+Developer;Building+things+that+matter...)](https://git.io/typing-svg)
 
@@ -17,9 +10,6 @@
 </div>
 
 ---
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="coding gif"/>
-
 ### 👨‍💻 &nbsp;Who Am I?
 
 ```javascript
@@ -78,12 +68,6 @@ const shaon = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-</div>
-
 ---
 
 ## 📈 &nbsp;Contribution Graph
@@ -111,9 +95,5 @@ const shaon = {
 ```
 "First, solve the problem. Then, write the code." — John Johnson
 ```
-
-<br/>
-
-![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
