@@ -58,10 +58,6 @@ Distributed backend architecture with service discovery, API rate limiting, cust
 
 ---
 
-## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharifuzzamanShaon&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharifuzzamanShaon&layout=compact&theme=dark)
 
 ---
 
