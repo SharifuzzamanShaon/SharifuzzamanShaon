@@ -1,6 +1,6 @@
 # Sharifuzzaman Hasan (Shaon)
 
-*Full-Stack JavaScript Developer | MERN Stack Specialist | Scalable Web Solutions*
+*Full-Stack Web Developer | MERN Stack Specialist | Scalable Web Solutions*
 
 Building high-performance, user-centric web applications and robust backends. Passionate about crafting scalable REST APIs, microservices, and pixel-perfect interfaces that deliver real-world value.
 
@@ -24,7 +24,7 @@ I'm a Full-Stack JavaScript Developer based in Bangladesh 🇧🇩, specializing
 
 ## 🔗 Find Me Online
 
-| [Portfolio](#) | [LinkedIn](#) | [GitHub](https://github.com/SharifuzzamanShaon) | [Contact (+880 1302-216999)](#) |
+| [LinkedIn](https://www.linkedin.com/in/sharifuzzaman-hasan-0b561521a/) | [GitHub](https://github.com/SharifuzzamanShaon) | [Contact (+880 1302-216999)](#) |
 | :---: | :---: | :---: | :---: |
 
 ---
