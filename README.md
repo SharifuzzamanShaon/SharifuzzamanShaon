@@ -1,15 +1,5 @@
 # Sharifuzzaman Hasan (Shaon)
 
-*Full-Stack Web Developer | MERN Stack Specialist | Scalable Web Solutions*
-
-Building high-performance, user-centric web applications and robust backends. Passionate about crafting scalable REST APIs, microservices, and pixel-perfect interfaces that deliver real-world value.
-
----
-
-## 🎯 About Me
-
-I'm a Full-Stack JavaScript Developer based in Bangladesh 🇧🇩, specializing in **MERN stack development**. My focus centers on architecting clean, maintainable APIs and crafting modern frontend interfaces that offer exceptional user experiences.
-
 *Currently:* Building production-grade MERN applications and exploring microservices, AWS cloud infrastructure, and real-time backend systems.
 
 ### What I Specialize In
